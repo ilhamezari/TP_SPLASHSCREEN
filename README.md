@@ -1,3 +1,4 @@
 # TP_SPLASHSCREEN
-<img width="435" alt="image" src="https://github.com/ilhamezari/TP_SPLASHSCREEN/assets/119487198/f5b15d25-93e4-4f94-aed2-deab3be5ff24">
+<img width="701" alt="image" src="https://github.com/ilhamezari/TP_SPLASHSCREEN/assets/119487198/59a9dd40-c59b-4a5d-bf37-cf82e8583e9c">
+
 
